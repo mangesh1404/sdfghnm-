@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="5" total="6" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="42703" started-at="2020-09-27T04:03:12Z" finished-at="2020-09-27T04:03:55Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="42703" started-at="2020-09-27T04:03:12Z" finished-at="2020-09-27T04:03:55Z">
+      <class name="com.jbk.Demo">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.jbk.Demo@604ed9f0]" name="setUp" is-config="true" duration-ms="13144" started-at="2020-09-27T04:02:59Z" finished-at="2020-09-27T04:03:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="postUSer()[pri:0, instance:com.jbk.Demo@604ed9f0]" name="postUSer" duration-ms="42572" started-at="2020-09-27T04:03:12Z" finished-at="2020-09-27T04:03:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postUSer -->
+      </class> <!-- com.jbk.Demo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
